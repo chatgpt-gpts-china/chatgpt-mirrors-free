@@ -2,9 +2,9 @@
 
 > 更新：2025/03/19         
 
-本站收录了国内可访问且**免费的 ChatGPT镜像网站**，有需要的可自取。
+本站收录了国内可访问且**免费的 [ChatGPT镜像网站](https://chat.yixiaai.com)**，有需要的可自取。
 
-在国内**无需翻墙**，就能直接在线使用的 **ChatGPT中文版镜像网站**~
+在国内**无需翻墙**，就能直接在线使用的 [**ChatGPT中文版镜像网站**](https://chat.lanjing.ai)~
 
 这些网站均为免费的网页版，国内ChatGPT、免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站~ 
 
